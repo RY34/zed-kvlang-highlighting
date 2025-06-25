@@ -7,5 +7,5 @@ description = "Basic Kivy Language Highlighting for Kivy: The Open Source Python
 repository = "https://github.com/RY34/zed-kvlang-highlighting.git"
 
 [grammars.kvlang]
-repository = ["https://github.com/RY34/tree-sitter-kvlang.git", "/home/f15h/Projects/tree-sitter-kvlang/src/"]
+repository = ["https://github.com/RY34/tree-sitter-kvlang.git", "/home/f15h/Projects/tree-sitter-kvlang/"]
 rev = "0b10672c2c22032cf2082bd61fc59de2bcda73f4"
