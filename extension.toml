@@ -8,4 +8,4 @@ repository = "https://github.com/RY34/zed-kvlang-highlighting.git"
 
 [grammars.kvlang]
 repository = "https://github.com/RY34/tree-sitter-kvlang.git"
-rev = "716ea88970872644b5c39f5a3d394621d4eadbf4"
+rev = "0b10672c2c22032cf2082bd61fc59de2bcda73f4"
