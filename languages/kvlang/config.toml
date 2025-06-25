@@ -1,4 +1,4 @@
-name = "Kivy lang"
+name = "KvLang"
 grammar = "kvlang"
 path_suffixes = ["kv"]
 first_line_pattern = '#:kivy '
