@@ -5,3 +5,7 @@ schema_version = 1
 authors = ["RY34 <you@example.com>"]
 description = "Basic Kivy Language Highlighting for Kivy: The Open Source Python App Development Framework."
 repository = "https://github.com/RY34/zed-kvlang-highlighting.git"
+
+[grammars.kvlang]
+repository = "https://github.com/RY34/tree-sitter-kvlang.git"
+rev = "716ea88970872644b5c39f5a3d394621d4eadbf4"
