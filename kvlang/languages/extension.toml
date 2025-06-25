@@ -1,7 +1,7 @@
-id = "my-extension"
-name = "My extension"
+id = "kv-lang-highlighting"
+name = "Kivy Language Highlighting"
 version = "0.0.1"
 schema_version = 1
 authors = ["RY34 <you@example.com>"]
-description = "My cool extension"
-repository = "https://github.com/your-name/my-zed-extension"
+description = "Basic Kivy Language Highlighting for Kivy: The Open Source Python App Development Framework."
+repository = "https://github.com/RY34/zed-kvlang-highlighting.git"
